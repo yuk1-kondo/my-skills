@@ -8,6 +8,7 @@
 |---|---|---|
 | animation-video | Remotion / Manim / Blender 等でプログラム的に動画を作る | Muse VM の `~/workspace/animation-studio` 前提 |
 | colab-gpu | Google Colab の GPU を借りて重い処理を回す | ブラウザ操作部は Muse 前提。Colab CLI 部は MBP でも可 |
+| design-stock | デザインストック（UIモーション等の参考素材集）から開発時にパターンを引いて数値レシピ化して実装する | ストック本体は Muse VM の `~/workspace/design-stock`。目録の同期版（STOCK_INDEX.md）を同梱 |
 | grok-x-search | Grok Build CLI の x_search で X の投稿を検索 | Grok Build CLI とサインインが必要 |
 | mimo-narration | Xiaomi MiMo TTS でナレーション音声を生成 | MiMo API キーが必要（Muse ではコネクタ経由） |
 | multi-machine-device-work | 複数マシン・実機が絡む作業の前に場所と接続先を確認する | 汎用、そのまま使える |
