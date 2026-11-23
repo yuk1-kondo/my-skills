@@ -1,0 +1,16 @@
+{
+  "name": "my-skills",
+  "version": "0.1.0",
+  "description": "Yuki Kondo's personal agent skills, shared across coding agents (Devin, Codex, Claude Code, Muse).",
+  "author": {
+    "name": "Yuki Kondo"
+  },
+  "repository": "https://github.com/yuk1-kondo/my-skills",
+  "keywords": [
+    "skills",
+    "personal",
+    "devin",
+    "codex",
+    "claude-code"
+  ]
+}
